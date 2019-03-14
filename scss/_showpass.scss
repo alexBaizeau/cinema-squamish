@@ -1,0 +1,22 @@
+
+@media(max-width:768px) {
+  #showpass-iframe {
+    height: 4500px;
+  }
+}
+
+@media(max-width:992px) {
+  #showpass-iframe {
+    height: 1800px;
+  }
+}
+@media(max-width:1200px) {
+  #showpass-iframe {
+    height: 2200px;
+  }
+}
+@media(min-width:1201px) {
+  #showpass-iframe {
+    height: 1400px;
+  }
+}
